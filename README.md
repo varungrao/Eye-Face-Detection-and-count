@@ -1,4 +1,4 @@
-# Face_eyes_smile-detection
+# Face_eyes-detection
 This is an OpenCV application for face, eyes, smile detection. It uses haarcascade provided by OpenCV
 
 ## Requirements :

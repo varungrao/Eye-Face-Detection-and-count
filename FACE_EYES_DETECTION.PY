@@ -35,4 +35,4 @@ cv2.destroyAllWindows()
 
 firebase = firebase.FirebaseApplication('https://iot-ia3-70e74.firebaseio.com/')
 data = {'faces': count}
-result=firebase.put('https://sd14cs006.firebaseio.com/','/faces',data)
+result=firebase.put('https://iot-ia3-70e74.firebaseio.com/','/faces',data)
